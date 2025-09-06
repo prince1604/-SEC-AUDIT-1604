@@ -12,7 +12,7 @@
      '----------------'  '----------------'  '----------------'                       '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  
 </pre>
 
-# 🛡️ SEC-AUDIT: Cross-Platform Ethical Hacking & Security Response Guide
+# 🛡️ SEC-AUDIT: User Compromise Detection Toolkit
 
 A **complete step-by-step cybersecurity checklist** to check if your **Linux, macOS, or Windows** system is hacked — and how to respond.  
 This guide is designed for **beginners, intermediate users, and cybersecurity professionals**.
