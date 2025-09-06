@@ -12,7 +12,7 @@
      '----------------'  '----------------'  '----------------'                       '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  
 </pre>
 
-# 🛡️ SEC-AUDIT: User Compromise Detection kit
+# 🛡🔍 SEC-AUDIT: User Compromise Detection kit
 
 A **complete step-by-step cybersecurity checklist** to check if your **Linux, macOS, or Windows** system is hacked — and how to respond.  
 This guide is designed for **beginners, intermediate users, and cybersecurity professionals**.
