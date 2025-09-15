@@ -1,37 +1,45 @@
-PRIVATE USE LICENSE
+REPOSITORY LICENSE AGREEMENT
+Copyright (c) 2025 prince1604. All rights reserved.
 
-Copyright (c) 2025 prince1604 
-All rights reserved.
+1. Definitions
 
-This repository is protected under a Private Use License. It is intended as a cybersecurity learning resource for ethical hacking, reverse engineering, and system auditing across Linux, macOS, and Windows platforms.
+"Repository" refers to the entire collection of code, documentation, scripts, and any other content contained within this GitHub repository and its forks or clones.
 
-Permissions (What You Can Do)
+"Author" refers to prince1604, the copyright holder.
 
-  You are allowed to:
+"You" (or "User") refers to any individual or entity who accesses or uses the Repository.
 
-      Read and study the content for personal learning.
-      
-      Use the material for educational and non-commercial purposes only.
-      
-      Reference the repository for ethical hacking, cybersecurity, and web technology research.
+2. Grant of Rights for Authorized Use
+Subject to the terms and conditions of this License, the Author grants You a limited, worldwide, non-exclusive, non-transferable, and non-sublicensable license to use the Repository solely for the following Authorized Purposes:
 
-Restrictions (What You Cannot Do)
+Personal & Educational Use: To read, study, and learn from the content for your personal education and skill development.
 
-  You are not permitted to:
+Ethical Security Research: To use the techniques and knowledge contained within for ethical security testing, penetration testing (where you have explicit written permission from the system owner), and defensive cybersecurity research on systems you own or are authorized to test.
 
-    Copy, modify, or create derivative works of this repository.
-    
-    Redistribute, republish, or share the content in any form.
-    
-    Use the content for commercial, malicious, or unauthorized purposes.
+Non-Commercial Reference: To use the Repository as a reference for academic, non-commercial research in the fields of cybersecurity, reverse engineering, and web technology.
 
-Author Rights
+3. Restrictions & Strictly Prohibited Uses
+The rights granted above are conditional upon Your compliance with the following restrictions. You are expressly prohibited from:
 
-    Modification, redistribution, and publication rights are reserved exclusively to the author:prince1604 
+Copying, Modifying, and Creating Derivative Works: You may not copy, reproduce, modify, translate, adapt, or create derivative works based upon the Repository.
 
-Agreement
+Redistribution: You may not distribute, publish, display, sublicense, lease, or share the Repository or any of its content with any third party, in any form or by any means (including but not limited to electronic, mechanical, photocopying, recording, or otherwise).
 
-By accessing or using this repository, you agree to this Private Use License.
-Violation of these terms may result in copyright infringement claims or legal action.
+Commercial Use: You may not use the Repository or any of its content for any commercial purpose, including but not limited to selling, licensing, renting, or using it to provide services or products to a third party.
 
+Malicious or Unlawful Use: You may not use the Repository for any malicious, illegal, fraudulent, or unauthorized purpose, including unauthorized access to computer systems.
 
+4. Reservation of Rights
+The Author owns all right, title, and interest in and to the Repository. This License does not grant you any rights to the Author's trademarks, service marks, or logos. All rights not expressly granted in this License are reserved by the Author.
+
+5. Disclaimer of Warranty
+THE REPOSITORY IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE REPOSITORY OR THE USE OF IT.
+
+6. Termination
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from the Author if You fail to comply with any term(s) of this License. Upon termination, you must cease all use of the Repository and destroy all copies, full or partial, of any content you may have created.
+
+7. Governing Law
+This License shall be governed by and construed in accordance with the laws of the jurisdiction of the Author's residence, without regard to its conflict of law provisions.
+
+8. Agreement
+By accessing, copying, or using any part of the Repository, You signify Your acceptance of this License and agree to be bound by its terms and conditions. If You do not agree to the terms of this License, You are not permitted to access or use the Repository in any way.
